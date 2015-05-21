@@ -1,0 +1,319 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1360605033965" ID="ID_1815079983" LINK="olgscisl.mm" MODIFIED="1361113823434" STYLE="bubble" TEXT="Web mapping &#xa;com OpenLayers &#xa;e GeoServer" VGAP="18">
+<hook NAME="accessories/plugins/HierarchicalIcons.properties"/>
+<node CREATED="1360866640616" ID="ID_970672422" MODIFIED="1361147116493" POSITION="right" STYLE="bubble" TEXT="Introdu&#xe7;&#xe3;o">
+<node CREATED="1360966989417" ID="ID_365130465" MODIFIED="1360967034767" TEXT="Web mapping com software livre? SIM!  Disponibilize e tenha o controle total sobre seus dados geogr&#xe1;ficos! A composi&#xe7;&#xe3;o de duas ferramentas livres, OpenLayers e GeoServer, permite criar uma solu&#xe7;&#xe3;o mais poderosa, segura, escal&#xe1;vel e totalmente independente do Google Maps."/>
+<node CREATED="1360967584857" ID="ID_47327202" MODIFIED="1361147123267" TEXT="Web mapping">
+<node CREATED="1360967825374" ID="ID_1478594054" MODIFIED="1360967855619" TEXT="Mapas no navegador ou internet"/>
+<node CREATED="1360967598911" ID="ID_1330737096" MODIFIED="1361155947954" TEXT="N&#xe3;o &#xe9; Web GIS">
+<node CREATED="1361043794983" ID="ID_1051416875" MODIFIED="1361043816803" TEXT="Tem que ter an&#xe1;lise"/>
+<node CREATED="1360967760307" ID="ID_238896273" MODIFIED="1360967766418" TEXT="Talvez se usasse WPS"/>
+</node>
+</node>
+<node CREATED="1360605239039" ID="ID_1976466576" MODIFIED="1361043637729" TEXT="Vis&#xe3;o geral, sem API ou todas as funcionalidades"/>
+</node>
+<node CREATED="1360024119422" ID="ID_535286663" MODIFIED="1361147132359" POSITION="right" STYLE="bubble" TEXT="GeoServer" VGAP="9">
+<node CREATED="1360550765331" ID="ID_1085041159" MODIFIED="1361155947986" STYLE="bubble" TEXT="Introdu&#xe7;&#xe3;o">
+<node CREATED="1360931343717" ID="ID_1587282242" MODIFIED="1361147135408" TEXT="O que &#xe9;">
+<node CREATED="1361147152824" ID="ID_1931045537" MODIFIED="1361147923855" TEXT="Geoserver &#xe9; um servidor escrito em Java, de c&#xf3;digo aberto, que permite compartilhar e editar dados geospaciais. Publica dados das mais comuns fontes de dados espaciais usando padr&#xf5;es abertos."/>
+</node>
+<node CREATED="1360550772645" ID="ID_1698577882" MODIFIED="1361147927832" TEXT="Quem faz">
+<node CREATED="1360931654103" ID="ID_1082587819" MODIFIED="1361043867509" TEXT="OpenPlans fundou"/>
+<node CREATED="1360931659975" ID="ID_1143127291" MODIFIED="1361147936178" TEXT="hoje mantido OpenGeo (OpenPlans) e comunidade"/>
+</node>
+<node CREATED="1360550776927" ID="ID_1516948683" MODIFIED="1361147930216" TEXT="Quando foi criado">
+<node CREATED="1360935223169" ID="ID_544550117" MODIFIED="1360935236413" TEXT="atividade no blog desde 2006"/>
+</node>
+</node>
+<node CREATED="1360550867085" ID="ID_1445009059" MODIFIED="1361155947987" STYLE="bubble" TEXT="Instala&#xe7;&#xe3;o">
+<node CREATED="1360550877733" ID="ID_1003973064" MODIFIED="1361155947987" TEXT="Standalone">
+<node CREATED="1361043899201" ID="ID_1145682416" MODIFIED="1361043903302" TEXT="Linux"/>
+<node CREATED="1361043903539" ID="ID_1031726621" MODIFIED="1361043906281" TEXT="MacOS"/>
+<node CREATED="1361043906513" ID="ID_1661713395" MODIFIED="1361043910363" TEXT="Windows"/>
+</node>
+<node CREATED="1360550881898" ID="ID_730575358" MODIFIED="1361155947989" TEXT="WAR file">
+<node CREATED="1361043937109" ID="ID_1081617343" MODIFIED="1361043944066" TEXT="JBoss"/>
+<node CREATED="1361043944284" ID="ID_329531946" MODIFIED="1361043951351" TEXT="Tomcat"/>
+<node CREATED="1361043951574" ID="ID_1424896315" MODIFIED="1361043958097" TEXT="Jetty"/>
+</node>
+</node>
+<node CREATED="1360550787855" ID="ID_44135579" MODIFIED="1361148157635" STYLE="bubble" TEXT="Protocolos">
+<node CREATED="1354028793332" ID="ID_1168783409" MODIFIED="1354028806979" TEXT="onde acontece o processamento, renderiza&#xe7;&#xe3;o"/>
+<node CREATED="1360550793741" ID="ID_515571367" MODIFIED="1361147952789" TEXT="WMS">
+<node CREATED="1360550803759" ID="ID_879556588" MODIFIED="1361147954410" TEXT="com simbologia">
+<node CREATED="1360551179578" ID="ID_765661895" MODIFIED="1361147955749" TEXT="SLD">
+<node CREATED="1361065339465" ID="ID_923052763" MODIFIED="1361065343381" TEXT="Styled"/>
+<node CREATED="1361065343589" ID="ID_475567029" MODIFIED="1361065345456" TEXT="Layer"/>
+<node CREATED="1361065345665" ID="ID_1706753931" MODIFIED="1361065348498" TEXT="Descriptor"/>
+</node>
+<node CREATED="1360551216246" ID="ID_533454899" MODIFIED="1360551220940" TEXT="parametrizado"/>
+</node>
+<node CREATED="1360550808974" ID="ID_1041945365" MODIFIED="1360550810826" TEXT="sem dados"/>
+<node CREATED="1360550821435" ID="ID_1091824154" MODIFIED="1361155947990" TEXT="imagem">
+<node CREATED="1360550824719" ID="ID_1344428315" MODIFIED="1360550836156" TEXT="jpg"/>
+<node CREATED="1360550836401" ID="ID_1618359061" MODIFIED="1360550837679" TEXT="png"/>
+</node>
+</node>
+<node CREATED="1360550795055" ID="ID_602807" MODIFIED="1361155947995" TEXT="WFS">
+<node CREATED="1360550812966" ID="ID_1427260783" MODIFIED="1360550816684" TEXT="sem simbologia"/>
+<node CREATED="1360550816883" ID="ID_1622320645" MODIFIED="1361156195592" TEXT="todos dados que o geoserver disponibiliza (view)"/>
+<node CREATED="1360550843841" ID="ID_1264422037" MODIFIED="1361155947995" TEXT="arquivo">
+<node CREATED="1360550851764" ID="ID_1023432638" MODIFIED="1360550855489" TEXT="gml"/>
+<node CREATED="1360550855871" ID="ID_1876376851" MODIFIED="1360550857865" TEXT="geojson"/>
+</node>
+</node>
+<node CREATED="1360551118544" ID="ID_719888202" MODIFIED="1361110112487" TEXT="suporta autoriza&#xe7;&#xe3;o nos protocolos"/>
+<node CREATED="1360807074435" ID="ID_30961059" MODIFIED="1361155947993" TEXT="exemplo">
+<icon BUILTIN="idea"/>
+<node CREATED="1360965720997" ID="ID_820398937" LINK="http://localhost:8089/geoserver/www/openlayers2/examples/dwfs-states.html" MODIFIED="1360965720997" TEXT="localhost:8089 &gt; Geoserver &gt; Www &gt; Openlayers2 &gt; Examples &gt; Dwfs-states"/>
+</node>
+</node>
+<node CREATED="1360023121078" ID="ID_1110632354" MODIFIED="1361148158831" STYLE="bubble" TEXT="Outros protocolos">
+<node CREATED="1360023134609" ID="ID_1569649396" MODIFIED="1361155948000" TEXT="WPS">
+<node CREATED="1360024040281" MODIFIED="1360024045031" TEXT="extens&#xe3;o"/>
+<node CREATED="1360023142500" MODIFIED="1360023978969" TEXT="geoprocessamento"/>
+<node CREATED="1360023979984" MODIFIED="1360023987922" TEXT="an&#xe1;lises"/>
+<node CREATED="1360023988187" MODIFIED="1360023990406" TEXT="c&#xe1;lculos"/>
+<node CREATED="1360023990625" MODIFIED="1360023998234" TEXT="algor&#xed;timos"/>
+</node>
+<node CREATED="1360866758665" ID="ID_1314663158" MODIFIED="1361155948000" TEXT="WFS-T">
+<node CREATED="1360866785545" ID="ID_620169751" MODIFIED="1360866788109" TEXT="edi&#xe7;&#xe3;o"/>
+</node>
+<node CREATED="1360023130828" ID="ID_352953714" MODIFIED="1361148160066" TEXT="WCS">
+<node CREATED="1360023152891" ID="ID_1673137066" MODIFIED="1360023154969" TEXT="raster"/>
+<node CREATED="1361044076612" ID="ID_942863947" MODIFIED="1361148630086" TEXT="An&#xe1;lise ou ortofoto"/>
+<node CREATED="1360025682937" ID="ID_154851690" MODIFIED="1360025689031" TEXT="GeoTIFF"/>
+<node CREATED="1360807127946" ID="ID_1732982016" MODIFIED="1361148691176" TEXT="Relevo sombreado">
+<icon BUILTIN="idea"/>
+<node CREATED="1360965624018" ID="ID_392103306" LINK="http://localhost:8089/geoserver/wms?service=WMS&amp;version=1.1.0&amp;request=GetMap&amp;layers=spearfish&amp;styles=&amp;bbox=589425.9342365642" MODIFIED="1361148681341" TEXT="simula&#xe7;&#xe3;o de um relevo iluminado pelo sol"/>
+</node>
+</node>
+</node>
+<node CREATED="1360806751681" ID="ID_127793829" MODIFIED="1361148702473" STYLE="bubble" TEXT="Formatos de dados que aceita">
+<node CREATED="1360025682937" ID="ID_128541372" MODIFIED="1360025689031" TEXT="GeoTIFF"/>
+<node CREATED="1360806763634" ID="ID_937275890" MODIFIED="1361044157002" TEXT="PostGIS (nativo)"/>
+<node CREATED="1360806760948" ID="ID_1415798261" MODIFIED="1361155948002" TEXT="shapefile">
+<node CREATED="1361044218685" ID="ID_1473607754" MODIFIED="1361044220174" TEXT="shp"/>
+<node CREATED="1361044220415" ID="ID_1279888556" MODIFIED="1361044222354" TEXT="dbf"/>
+<node CREATED="1361104629218" ID="ID_606536481" MODIFIED="1361104632285" TEXT="shx"/>
+<node CREATED="1361044187787" ID="ID_273288711" MODIFIED="1361104717020" TEXT="prj  e outros"/>
+<node CREATED="1361044172445" ID="ID_896259402" MODIFIED="1361104807211" TEXT="diret&#xf3;rio com arquivos shapefile">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node CREATED="1361148724037" ID="ID_1968977581" MODIFIED="1361148728087" TEXT="outros"/>
+<node CREATED="1360966539604" ID="ID_958818774" MODIFIED="1361148733058" TEXT="e mais via extens&#xe3;o"/>
+</node>
+<node CREATED="1360550901426" ID="ID_170018845" MODIFIED="1361148734425" STYLE="bubble" TEXT="Conceitos">
+<node CREATED="1360550948455" ID="ID_1377037325" MODIFIED="1361148736123" TEXT="workspace">
+<node CREATED="1360024145359" ID="ID_572869567" MODIFIED="1361148740556" TEXT="serve para separar/organizar"/>
+</node>
+<node CREATED="1360550952611" ID="ID_1875333475" MODIFIED="1361155948002" TEXT="data store">
+<node CREATED="1360966419818" MODIFIED="1360966425834" TEXT="reposit&#xf3;rio dados/imagem"/>
+</node>
+<node CREATED="1360550955491" ID="ID_553314846" MODIFIED="1361148745342" TEXT="layer">
+<node CREATED="1360024247187" ID="ID_1457015290" MODIFIED="1361148746760" TEXT="pode ser">
+<node CREATED="1360024263031" MODIFIED="1360024264531" TEXT="tabela"/>
+<node CREATED="1360024264766" ID="ID_1608374557" MODIFIED="1361148748481" TEXT="view">
+<node CREATED="1360550965660" MODIFIED="1360966469949" TEXT="criada no banco"/>
+<node CREATED="1360550972792" ID="ID_1366528586" MODIFIED="1361155202430" TEXT="criar uma  base em um comando sql">
+<node CREATED="1360550994530" MODIFIED="1360550999999" TEXT="pode receber parametro"/>
+</node>
+</node>
+<node CREATED="1360024267656" MODIFIED="1360024270672" TEXT="shapefile"/>
+</node>
+</node>
+<node CREATED="1360550957782" ID="ID_1613879020" MODIFIED="1361155830199" TEXT="grouplayer">
+<icon BUILTIN="attach"/>
+<node CREATED="1360024315859" MODIFIED="1360024326516" TEXT="somente para WMS"/>
+<node CREATED="1361155211478" ID="ID_559691834" MODIFIED="1361155215750" TEXT="mais usadas"/>
+<node CREATED="1361155266206" ID="ID_74434549" MODIFIED="1361155293449" TEXT="camadas que possuem relacionamento"/>
+</node>
+<node CREATED="1360024399500" ID="ID_1109452710" MODIFIED="1361148008165" TEXT="style">
+<node CREATED="1360024404031" ID="ID_710230560" MODIFIED="1360024408094" TEXT="Styled"/>
+<node CREATED="1360024409812" MODIFIED="1360024411750" TEXT="Layer"/>
+<node CREATED="1360024411969" ID="ID_603526408" MODIFIED="1360024416156" TEXT="Descriptor"/>
+<node CREATED="1361148079580" ID="ID_486567005" MODIFIED="1361148081742" TEXT="XML"/>
+<node CREATED="1361148083315" ID="ID_323075654" MODIFIED="1361148125271" TEXT="Veremos um exemplo"/>
+</node>
+<node CREATED="1361148034980" ID="ID_554023320" MODIFIED="1361155948072" TEXT="Imagem">
+<node CREATED="1360024360812" ID="ID_249608018" MODIFIED="1360966357629">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="geoserverconcepts.png" />
+  </body>
+</html></richcontent>
+<cloud/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node CREATED="1360968040367" ID="ID_86028315" MODIFIED="1361104822246" TEXT="Exemplo: incluir um shapefile">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node CREATED="1360551151037" ID="ID_262094352" MODIFIED="1361148062140" STYLE="bubble" TEXT="Como configurar">
+<node CREATED="1360551004015" ID="ID_214056165" MODIFIED="1361155304879" TEXT="Web admin">
+<node CREATED="1360551351268" ID="ID_1863845139" MODIFIED="1360837957169" TEXT="publicar layers"/>
+<node CREATED="1360551040258" ID="ID_1923000342" MODIFIED="1360837957169" TEXT="seguranca"/>
+</node>
+<node CREATED="1360551108939" ID="ID_127551922" MODIFIED="1360966579854" TEXT="REST api"/>
+<node CREATED="1360806711467" ID="ID_1832313043" MODIFIED="1360966592924" TEXT="XML"/>
+</node>
+<node CREATED="1360551231669" ID="ID_1708253223" MODIFIED="1361148064501" STYLE="bubble" TEXT="E tem mais">
+<node CREATED="1360807680880" ID="ID_1993191732" MODIFIED="1361109801047" TEXT="editor b&#xe1;sico de SLD (XML)">
+<node CREATED="1361109440658" ID="ID_1941594335" MODIFIED="1361109459162" TEXT="cities no geoserver">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node CREATED="1360551235349" ID="ID_276727350" MODIFIED="1361155948073" TEXT="Pode servir Google Earth">
+<node CREATED="1360551248368" ID="ID_1880072314" MODIFIED="1360966629683" TEXT="est&#xe1;tico"/>
+<node CREATED="1360551254678" ID="ID_599472856" MODIFIED="1360966644611" TEXT="din&#xe2;mico"/>
+</node>
+<node CREATED="1360968138565" ID="ID_226039495" MODIFIED="1360968159188" TEXT="Cascateamento com outros servidores WFS"/>
+<node CREATED="1360551258085" ID="ID_622440126" MODIFIED="1361155948074" TEXT="Extens&#xf5;es">
+<node CREATED="1360695973970" ID="ID_995772075" MODIFIED="1360837957173" TEXT="WPS"/>
+<node CREATED="1360697124458" ID="ID_1726619141" MODIFIED="1360966683642" TEXT="Conex&#xe3;o com outros bancos de dados"/>
+<node CREATED="1360697137512" ID="ID_1347722115" MODIFIED="1360966691646" TEXT="ESRI ArcSDE"/>
+</node>
+<node CREATED="1360804924462" ID="ID_205168145" MODIFIED="1361155948076" TEXT="geowebcache">
+<node CREATED="1360809087452" ID="ID_1435048152" MODIFIED="1360966708402" TEXT="Funciona como um proxy"/>
+<node CREATED="1360809077058" ID="ID_212091272" MODIFIED="1360837957174" TEXT="produto standalone"/>
+<node CREATED="1360809089045" ID="ID_255830234" MODIFIED="1360837957175" TEXT="mas j&#xe1; est&#xe1; integrado ao gsr"/>
+</node>
+</node>
+<node CREATED="1361008725267" ID="ID_12957320" MODIFIED="1361155948077" STYLE="bubble" TEXT="Links">
+<node CREATED="1361008741068" ID="ID_68057146" MODIFIED="1361008743388" TEXT="http://geoserver.org"/>
+<node CREATED="1361008795009" ID="ID_1220507313" MODIFIED="1361155948080" TEXT="Configurando para produ&#xe7;&#xe3;o">
+<node CREATED="1361009297227" ID="ID_1565277856" MODIFIED="1361009298978" TEXT="http://docs.geoserver.org/stable/en/user/production/index.html"/>
+</node>
+<node CREATED="1361008805890" ID="ID_609114661" MODIFIED="1361155948084" TEXT="Arquitetura, tunning e casos reais">
+<node CREATED="1361009137304" ID="ID_1830038339" MODIFIED="1361009140342" TEXT="http://opengeo.org/publications/geoserver-production/"/>
+</node>
+</node>
+</node>
+<node CREATED="1360967496136" ID="ID_1403968711" MODIFIED="1361110128321" POSITION="left" STYLE="bubble" TEXT="Agenda"/>
+<node CREATED="1360605061956" ID="ID_1032290171" MODIFIED="1361113825425" POSITION="left" STYLE="bubble" TEXT="OpenLayers" VGAP="8">
+<node CREATED="1360605278406" ID="ID_1041165201" MODIFIED="1361155309829" STYLE="bubble" TEXT="O que &#xe9;?">
+<node CREATED="1360866668584" ID="ID_284607628" MODIFIED="1361044504347" TEXT="Biblioteca javascript cross-browser para Web mapping"/>
+</node>
+<node CREATED="1360605146528" ID="ID_1002542776" MODIFIED="1361155313038" STYLE="bubble" TEXT="Por que usar?">
+<node CREATED="1360605153939" ID="ID_624126383" MODIFIED="1361044534355" TEXT="lib independente, armazenada no pr&#xf3;prio servidor "/>
+<node CREATED="1360866741673" ID="ID_1827177401" MODIFIED="1361155948086" TEXT="suporte a diversos protocolos">
+<node CREATED="1360866754257" MODIFIED="1360866755829" TEXT="WMS"/>
+<node CREATED="1360866756065" MODIFIED="1360866758429" TEXT="WFS"/>
+<node CREATED="1360866758665" MODIFIED="1360866763157" TEXT="WFS-T"/>
+</node>
+<node CREATED="1354016720353" ID="ID_608177573" MODIFIED="1361155948088" TEXT="Build enxuta">
+<node CREATED="1360605200271" ID="ID_814841139" MODIFIED="1361110112487" TEXT="pode ser compactada contendo somente as classes usadas na implementa&#xe7;&#xe3;o"/>
+</node>
+<node CREATED="1354028720433" ID="ID_1328419207" MODIFIED="1354056149899" TEXT="Rasters pr&#xf3;prios"/>
+<node CREATED="1354056150909" ID="ID_1087242843" MODIFIED="1361155948089" TEXT="Alternar entre baselayer">
+<node CREATED="1361044641669" ID="ID_378580718" MODIFIED="1361044643703" TEXT="OSM"/>
+<node CREATED="1361044643953" ID="ID_1316890757" MODIFIED="1361044646080" TEXT="Bing"/>
+</node>
+<node CREATED="1354016720353" ID="ID_1829243338" MODIFIED="1354031617921" TEXT="N&#xe3;o sofre com deprecated"/>
+<node CREATED="1354016720354" ID="ID_703185489" MODIFIED="1361155948090" TEXT="Mais facil para debugar">
+<node CREATED="1360841611192" MODIFIED="1360841626044" TEXT="js espec&#xed;fico"/>
+<node CREATED="1360841626704" MODIFIED="1360841648188" TEXT="firebug controles adicionais"/>
+</node>
+<node CREATED="1360928516751" ID="ID_1956485401" MODIFIED="1360928519667" TEXT="reproje&#xe7;&#xe3;o"/>
+</node>
+<node CREATED="1360761375602" ID="ID_1451758555" MODIFIED="1361155317619" STYLE="bubble" TEXT="Criando um mapa b&#xe1;sico">
+<node CREATED="1361055375078" ID="ID_747349429" LINK="http://localhost:8089/geoserver/www/openlayers2/examples/getfeatureinfo-control.html" MODIFIED="1361108277590" TEXT="localhost:8089 &gt; Geoserver &gt; Www &gt; Openlayers2 &gt; Examples &gt; Getfeatureinfo-control">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node CREATED="1354016845585" ID="ID_633288950" MODIFIED="1361155319696" STYLE="bubble" TEXT="Documenta&#xe7;&#xe3;o">
+<node CREATED="1354016852594" ID="ID_646559824" MODIFIED="1354016865356" TEXT="Learn by examples"/>
+<node CREATED="1354016865816" ID="ID_954434135" MODIFIED="1354016867640" TEXT="API"/>
+<node CREATED="1360972778911" ID="ID_158745088" MODIFIED="1361155352683" TEXT="Links veremos mais para frente"/>
+</node>
+<node CREATED="1354028940533" ID="ID_835305951" MODIFIED="1361155357033" STYLE="bubble" TEXT="Conceitos openlayers">
+<node CREATED="1354016577706" ID="ID_94585380" MODIFIED="1361155360191" TEXT="overlay e baselayer">
+<node CREATED="1360965720997" ID="ID_1283529564" LINK="http://localhost:8089/geoserver/www/openlayers2/examples/dwfs-states.html" MODIFIED="1360965720997" TEXT="localhost:8089 &gt; Geoserver &gt; Www &gt; Openlayers2 &gt; Examples &gt; Dwfs-states"/>
+</node>
+<node CREATED="1354016593466" ID="ID_1080049583" MODIFIED="1361155361848" TEXT="controles">
+<node CREATED="1354056615963" ID="ID_622794565" MODIFIED="1361155365719" TEXT="Selecionar/destacar features">
+<node CREATED="1354056625590" ID="ID_1475115145" MODIFIED="1361155422713" TEXT="WMSGetFeatureInfo">
+<icon BUILTIN="attach"/>
+<node CREATED="1361055375078" ID="ID_1453744041" LINK="http://localhost:8089/geoserver/www/openlayers2/examples/getfeatureinfo-control.html" MODIFIED="1361055375078" TEXT="localhost:8089 &gt; Geoserver &gt; Www &gt; Openlayers2 &gt; Examples &gt; Getfeatureinfo-control"/>
+</node>
+<node CREATED="1354056660628" ID="ID_1866702982" MODIFIED="1361155416932" TEXT="SelectFeature">
+<icon BUILTIN="attach"/>
+<node CREATED="1361062919747" ID="ID_1833568371" LINK="http://localhost:8089/geoserver/www/openlayers2/examples/highlight-feature.html" MODIFIED="1361062919747" TEXT="localhost:8089 &gt; Geoserver &gt; Www &gt; Openlayers2 &gt; Examples &gt; Highlight-feature"/>
+</node>
+</node>
+<node CREATED="1354056738813" ID="ID_1795158380" MODIFIED="1361155948091" TEXT="Ferramentas do mapa">
+<node CREATED="1354056779013" ID="ID_770631752" MODIFIED="1354056780512" TEXT="LayerSwitcher"/>
+<node CREATED="1354056816863" ID="ID_1256168112" MODIFIED="1354056818608" TEXT="ZoomIn"/>
+<node CREATED="1354056872401" ID="ID_935657483" MODIFIED="1361157059445" TEXT="DrawFeature">
+<icon BUILTIN="attach"/>
+<node CREATED="1361157020805" ID="ID_847215320" LINK="http://localhost:8089/geoserver/www/openlayers2/examples/highlight-feature.html" MODIFIED="1361157020805" TEXT="localhost:8089 &gt; Geoserver &gt; Www &gt; Openlayers2 &gt; Examples &gt; Highlight-feature"/>
+</node>
+</node>
+</node>
+<node CREATED="1354016595760" ID="ID_320888035" MODIFIED="1361155363406" TEXT="strategy">
+<node CREATED="1354057091536" ID="ID_590013983" MODIFIED="1361155364880" TEXT="Requisi&#xe7;&#xe3;o">
+<node CREATED="1354056464190" ID="ID_368112083" MODIFIED="1361155948094" TEXT="BBOX">
+<node CREATED="1354056506246" ID="ID_838338585" MODIFIED="1354057130798" TEXT="somente do que apareceria na &#xe1;rea vis&#xed;vel do mapa"/>
+</node>
+<node CREATED="1354056176150" ID="ID_793850914" MODIFIED="1361155948095" TEXT="Fixed">
+<node CREATED="1354016929644" ID="ID_1379869039" MODIFIED="1354057156633" TEXT="N&#xe3;o requisita se for zoomIn"/>
+</node>
+</node>
+<node CREATED="1354057163089" ID="ID_1238425874" MODIFIED="1361155948095" TEXT="Renderiza&#xe7;&#xe3;o">
+<node CREATED="1354056203659" ID="ID_1558708138" MODIFIED="1361155948097" TEXT="Cluster">
+<node CREATED="1354056212523" ID="ID_1722051494" MODIFIED="1354056222644" TEXT="agrupamento de pontos "/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1360972548674" ID="ID_1193368525" MODIFIED="1361155948100" STYLE="bubble" TEXT="Servi&#xe7;os baselayer">
+<node CREATED="1360761624208" ID="ID_1193588899" MODIFIED="1361110112487" TEXT="tem construtores para os principais servi&#xe7;os de mapa"/>
+<node CREATED="1360761640855" ID="ID_328122849" MODIFIED="1360972683443" TEXT="OpenStreetMaps"/>
+<node CREATED="1360761647230" ID="ID_1718810615" MODIFIED="1360972674582" TEXT="Google Maps"/>
+<node CREATED="1360761650524" ID="ID_1398438659" MODIFIED="1360837957193" TEXT="Bing"/>
+</node>
+<node CREATED="1354016834639" ID="ID_1578591896" MODIFIED="1361155948111" STYLE="bubble" TEXT="Links">
+<node CREATED="1361008921585" ID="ID_619390492" MODIFIED="1361008923738" TEXT="http://www.openlayers.org/"/>
+<node CREATED="1354016834653" ID="ID_1744999833" LINK="http://dev.openlayers.org/docs/files/OpenLayers-js.html" MODIFIED="1360972820874" TEXT="http://dev.openlayers.org/docs/files/OpenLayers-js.html - Refer&#xea;ncia (em ingl&#xea;s)"/>
+<node CREATED="1354016834659" ID="ID_1690884389" LINK="http://openlayers.org/dev/examples" MODIFIED="1360972822462" TEXT="http://openlayers.org/dev/examples - Exemplos (em ingl&#xea;s)"/>
+<node CREATED="1354016834650" ID="ID_1174103737" LINK="http://workshops.opengeo.org/openlayers-intro/" MODIFIED="1354016834650" TEXT="http://workshops.opengeo.org/openlayers-intro/ - Workshop bem completo (em ingl&#xea;s)"/>
+</node>
+<node CREATED="1354029069464" ID="ID_809381286" MODIFIED="1361113826523" STYLE="bubble" TEXT="Trabalhando com openlayers">
+<icon BUILTIN="idea"/>
+<node CREATED="1361110198142" ID="ID_768511771" MODIFIED="1361110212445" TEXT="Um pouco do que &#xe9; poss&#xed;vel fazer com o OpenLayers">
+<cloud/>
+</node>
+<node CREATED="1354016464763" ID="ID_1306726532" MODIFIED="1361155677042" TEXT="colocando camadas Google">
+<node CREATED="1361111822249" ID="ID_1851755069" LINK="http://localhost:8089/geoserver/www/openlayers2/examples/google-v3-alloverlays.html" MODIFIED="1361111822249" TEXT="localhost:8089 &gt; Geoserver &gt; Www &gt; Openlayers2 &gt; Examples &gt; Google-v3-alloverlays"/>
+</node>
+<node CREATED="1354016641679" ID="ID_1832479890" MODIFIED="1361155678207" TEXT="temas com base em atributos">
+<node CREATED="1354057262534" ID="ID_605799870" MODIFIED="1354057309757" TEXT="WMS - SLD (geoserver param&#xea;tros)"/>
+<node CREATED="1361113252559" ID="ID_1991838179" LINK="http://localhost:8089/geoserver/www/openlayers2/examples/styles-unique.html" MODIFIED="1361113252559" TEXT="localhost:8089 &gt; Geoserver &gt; Www &gt; Openlayers2 &gt; Examples &gt; Styles-unique"/>
+</node>
+<node CREATED="1354016611316" ID="ID_1908525171" MODIFIED="1361155847041" TEXT="alternando WMS e WFS">
+<node CREATED="1354056257594" ID="ID_1914542240" MODIFIED="1354056288263" TEXT="limitando visibilidade com base na resolu&#xe7;&#xe3;o"/>
+<node CREATED="1360965758388" ID="ID_1449045820" LINK="http://localhost:8089/geoserver/www/openlayers2/examples/dwfs-states.html" MODIFIED="1360965758388" TEXT="localhost:8089 &gt; Geoserver &gt; Www &gt; Openlayers2 &gt; Examples &gt; Dwfs-states"/>
+</node>
+<node CREATED="1354016697014" ID="ID_1648902719" MODIFIED="1361155850152" TEXT="restringindo features com CQL">
+<node CREATED="1354058577747" MODIFIED="1354058579700" TEXT="var format = new OpenLayers.Format.CQL();"/>
+<node CREATED="1354058602335" MODIFIED="1354058604803" TEXT="filter = format.read(cql.value);"/>
+<node CREATED="1354058058711" MODIFIED="1354058059655" TEXT="cql-format.html"/>
+</node>
+<node CREATED="1354016528641" ID="ID_206067656" MODIFIED="1361155852476" TEXT="hover em feature WFS">
+<node CREATED="1361062919747" ID="ID_1042025201" LINK="http://localhost:8089/geoserver/www/openlayers2/examples/highlight-feature.html" MODIFIED="1361062919747" TEXT="localhost:8089 &gt; Geoserver &gt; Www &gt; Openlayers2 &gt; Examples &gt; Highlight-feature"/>
+</node>
+<node CREATED="1354016601250" ID="ID_223324594" MODIFIED="1361155859790" TEXT="cluster">
+<node CREATED="1354058824409" MODIFIED="1354058826300" TEXT="strategies: [                         new OpenLayers.Strategy.Fixed(),                         new OpenLayers.Strategy.Cluster()                     ],"/>
+<node CREATED="1354058838238" MODIFIED="1354058839632" TEXT="/strategy-cluster.html"/>
+<node CREATED="1354058867242" MODIFIED="1354058869078" TEXT="strategy-cluster-extended.html"/>
+</node>
+</node>
+</node>
+</node>
+</map>
